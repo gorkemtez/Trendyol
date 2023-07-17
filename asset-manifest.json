@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Trendyol/static/css/main.36f4a575.css",
+    "main.js": "/Trendyol/static/js/main.6b03137c.js",
+    "static/js/787.f3dbcf08.chunk.js": "/Trendyol/static/js/787.f3dbcf08.chunk.js",
+    "static/media/t.png": "/Trendyol/static/media/t.91a778d423fd9bfde254.png",
+    "static/media/2.png": "/Trendyol/static/media/2.67493d33360987aabd29.png",
+    "static/media/3.png": "/Trendyol/static/media/3.31847b9e4541c07f2d22.png",
+    "static/media/4.png": "/Trendyol/static/media/4.31847b9e4541c07f2d22.png",
+    "static/media/5.png": "/Trendyol/static/media/5.31847b9e4541c07f2d22.png",
+    "static/media/1.png": "/Trendyol/static/media/1.a613ad5bd3936d229b1f.png",
+    "static/media/drop1.png": "/Trendyol/static/media/drop1.8eea17b9bdef075b47f4.png",
+    "static/media/6.png": "/Trendyol/static/media/6.cea031180cd2bb1985ca.png",
+    "static/media/etbis-qr.png": "/Trendyol/static/media/etbis-qr.b9898a7315fe290056e6.png",
+    "static/media/drop2.png": "/Trendyol/static/media/drop2.00496768c2dec3c8c750.png",
+    "static/media/aa.png": "/Trendyol/static/media/aa.bcbf6b1c66210caab1ec.png",
+    "static/media/huawei.svg": "/Trendyol/static/media/huawei.15314e167e13e3b47698cdb00b934636.svg",
+    "static/media/apple.svg": "/Trendyol/static/media/apple.c9eed682121494a34a7e3f0d7e672198.svg",
+    "static/media/google.svg": "/Trendyol/static/media/google.c08a920932d06b41948e186c709d53ca.svg",
+    "index.html": "/Trendyol/index.html",
+    "main.36f4a575.css.map": "/Trendyol/static/css/main.36f4a575.css.map",
+    "main.6b03137c.js.map": "/Trendyol/static/js/main.6b03137c.js.map",
+    "787.f3dbcf08.chunk.js.map": "/Trendyol/static/js/787.f3dbcf08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36f4a575.css",
+    "static/js/main.6b03137c.js"
+  ]
+}
