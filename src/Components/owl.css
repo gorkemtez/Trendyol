@@ -1,0 +1,42 @@
+.title  
+{  
+        margin-bottom: 20px;  
+          
+        padding:20px;
+}  
+.img  
+{  
+        height: 260px;
+        width:100%;
+} 
+.owl-carousel .owl-item img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px solid rgb(232, 232, 232);
+    cursor: pointer;
+    
+}
+.owl-carousel .owl-item img:hover{
+    /* border: 1px solid orange;
+    transition: .3s; */
+}
+.container-fluid{
+    width: 85%;
+    margin-top: 30px;
+}
+.container-fluid p{
+    cursor: pointer;
+}
+.container-fluid .img:hover{
+    border: 1px solid orange;
+    transition: .3s;
+}
+.container-fluid .x:hover{
+    color: orange;
+}
+@media (max-width:600px){
+    .container-fluid{
+        display: none;
+    }
+}
